@@ -1,1 +1,1 @@
-print('hello babu')
+print('2')
